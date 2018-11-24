@@ -1,3 +1,9 @@
+# react-hooks-textcase
+
+## A text converter app built with React Hooks
+
+### [Demo](https://react-hooks-textcase.firebaseapp.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
